@@ -2,7 +2,7 @@
 
 title: Pengfei
 locale: en_US
-description: Describe your website here.
+description: Pengfei's Personal Blog.
 logo: site-logo.png
 search: true
 url: http://ouyang.im
@@ -31,22 +31,22 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Pengfei Ouyang
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: p.ouyang@foxmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: #ouyangpengfei
+  facebook: #ouyangpengfei
+  github: #ouyangpengfei
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: #ouyangpengfei
+  instagram: #ouyangpengfei
   flickr: #username
   tumblr: #username
   pinterest: #username
-  weibo: #userid
+  weibo: #impengfei@163.com
   google:
-    plus: #username
+    plus: #ouyangpengfei
     analytics:
     verify:
     ad-client:
