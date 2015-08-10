@@ -7,7 +7,7 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2014-08-08T15:39:55-04:00
+date: 2015-08-08T15:39:55-04:00
 share: true
 comments: true
 ---
