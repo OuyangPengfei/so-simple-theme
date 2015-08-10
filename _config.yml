@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Ouyang Pengfei
-  avatar: bio-photo.jpg
+  avatar: oy.png
   email: p.ouyang@foxmail.com
   disqus-shortname: ouyangpengfei
   twitter: ouyangpengfei
