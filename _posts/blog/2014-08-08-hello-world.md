@@ -4,7 +4,7 @@ title: "Hello World"
 modified:
 categories: blog
 excerpt:
-tags: []
+tags: [HELLO WORLD]
 image:
   feature:
 date: 2015-08-08T15:39:55-04:00
