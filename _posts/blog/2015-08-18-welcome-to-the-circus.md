@@ -12,7 +12,7 @@ share: true
 comments: true
 ---
 
-<figure>
+<figure class="center">
 	<a href="/images/20150818-elephant.jpg">
   	<img src="/images/20150818-elephant.jpg" alt="image">
 	</a>
@@ -21,7 +21,6 @@ comments: true
 ## Welcome to the circus,
 
 ## Enjoy the Show!
-
 
 
 
