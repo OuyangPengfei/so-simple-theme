@@ -20,7 +20,7 @@ comments: true
 
 ## <a class="center">Welcome to the circus,</a>
 
-## <div class="center">Enjoy the Show!</div>
+## <div style="text-align:center"> Enjoy the Show!</div>
 
 
 
