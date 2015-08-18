@@ -13,11 +13,15 @@ comments: true
 ---
 
 <figure>
-
-	<img src="/images/20150818-elephant.jpg" alt="image">
-	
+	<a href="/images/20150818-elephant.jpg">
+  	<img src="/images/20150818-elephant.jpg" alt="image">
+	</a>
 </figure>
 
 ## Welcome to the circus,
 
-##                       Enjoy the Show!
+## Enjoy the Show!
+
+
+
+
