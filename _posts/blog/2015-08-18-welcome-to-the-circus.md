@@ -12,8 +12,8 @@ share: true
 comments: true
 ---
 
-<figure class="center">
-	<a href="/images/20150818-elephant.jpg">
+<figure>
+  <a href="/images/20150818-elephant.jpg">
   	<img src="/images/20150818-elephant.jpg" alt="image">
 	</a>
 </figure>
