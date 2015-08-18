@@ -18,9 +18,7 @@ comments: true
 	</a>
 </figure>
 
-## <a class="center">Welcome to the circus,</a>
+## Welcome to the circus,
 
-## <div style="text-align:center" Enjoy the Show!</div>
-
-
+## Enjoy the Show!
 
